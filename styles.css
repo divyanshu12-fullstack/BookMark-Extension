@@ -1,0 +1,39 @@
+body{
+    min-width:400px;
+    background-color: whitesmoke;
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#input-el{
+    width: 100%;
+    font-weight: bolder;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid black;
+
+}
+#reset-btn{
+    color: rgb(21, 145, 21);
+    background-color: white;
+    border : 1.5px solid rgb(21, 145, 21);
+}
+button{
+    background-color: rgb(21, 145, 21);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    font-weight: bolder;
+    margin-top: 5px;
+}
+
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+li a{
+    color: rgb(21, 145, 21);
+}
+li{
+    margin-top: 5px;
+}
